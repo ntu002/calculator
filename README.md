@@ -1,11 +1,19 @@
 # calculator
 
-GIỚI THIỆU KHÁI QUÁT
-- Tên sản phẩm: Calculator.
-- Calculator là sản phẩm máy tính cầm tay đơn giản có thể thực hiện được các phép toán cơ bản.
-- Thiết kế phong cách cổ điển. Tuy nhiên còn nhiều điểm bản thân tôi còn chưa ưng ý (sẽ thay đổi trong thời gian tới)
-- Thời gian bắt đầu: 
-    - 27-7-2022 -> 29-7-2022
+## INTRODUCTION <a name="introduction"></a>
+* Project name: Calculator.
+* Calculator is a simple calculator which can perform basic equations.
+* Classical design.
+* Begin from: 27-7-2022 -> 29-7-2022
+* Used language: html, css.
 
-- NGÔN NGỮ SỬ DỤNG: html, css
+## Getting Started <a name="getting-started"></a>
+* Clone from Github  
+```  
+https://github.com/ntu002/calculator
+```
+
+## Contacts <a name="contacts"></a>
+* Google Gmail: ngoctubn2002@gmail.com
+* Outlook: tu.nn205135@sis.hust.edu.vn
 
