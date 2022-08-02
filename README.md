@@ -1,6 +1,7 @@
 # CALCULATOR
 
-#Table of Contents
+# Table of Contents
+
 * [Why "Calculator"?](#why-calculator)
 * [Introduction](#introduction)
 * [Getting Started](#getting-started)
